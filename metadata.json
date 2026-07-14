@@ -1,0 +1,6 @@
+{
+  "name": "MedTest IA",
+  "description": "Plataforma de simulados de Língua Portuguesa com IA para candidatos à Faculdade de Medicina",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
